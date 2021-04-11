@@ -8,3 +8,22 @@ git add
 git commit -m ""
 git log
 Git diff <filename>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Flow diagram
